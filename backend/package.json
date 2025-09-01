@@ -10,6 +10,9 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "@digitalbazaar/vc": "^7.2.0",
+    "@sd-jwt/core": "^0.15.0",
+    "@sd-jwt/decode": "^0.15.0",
     "cors": "^2.8.5",
     "express": "^5.1.0",
     "nodemon": "^3.1.10"
